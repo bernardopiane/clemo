@@ -130,3 +130,9 @@ html {
 #services .item:nth-child(even) {
   flex-direction: row-reverse;
 }
+
+@media (max-width: 767.98px) {
+  .btn{
+    text-align: center;
+  }
+}
